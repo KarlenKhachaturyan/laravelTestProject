@@ -1,0 +1,2 @@
+# laravelTestProject
+Basics of Laravel
